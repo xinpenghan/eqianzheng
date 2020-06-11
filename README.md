@@ -1,2 +1,2 @@
-# xinpenghan.github.io/eqianzheng.github.io
-用于html文件托管使用
+# https://xinpenghan.github.io/eqianzheng/
+用于个人html文件托管使用
